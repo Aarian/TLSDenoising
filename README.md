@@ -3,7 +3,7 @@ This is the demo code for the paper [1].
 To run the demo please run `tls-master/ main_resulter.m`
 * For the shearlet toolbox, I have used implementation by LMU group [2]. 
 * For SaS denoising please check Alin Achim's toolbox [3].
-* Those parts that are not sharable for any reason (author permission, ....) are in protected mode.
+* The parts that cannot be shared for any reason, such as requiring author permission, are in p-mode.
 * For the Cauchy distribution implementation [4] was used. 
 
 ## References
