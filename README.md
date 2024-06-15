@@ -1,5 +1,6 @@
 # TLS Speckle Removal
-This is the demo code for the paper [1]. 
+This is the demo code for the paper [1].Please cite the references [1-3] if you are using this demo. 
+
 To run the demo please run `tls-master/ main_resulter.m`
 * For the shearlet toolbox, I have used implementation by LMU group [2]. 
 * For SaS denoising please check Alin Achim's toolbox [3].
